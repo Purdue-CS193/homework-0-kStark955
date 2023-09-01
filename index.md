@@ -25,7 +25,17 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## this is a test header
 
+- listt
+- listo
+
+  1. numbered
+  2. list
+ 
+  *bolddodo*
+  _italical_
+  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
